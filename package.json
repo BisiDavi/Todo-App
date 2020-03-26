@@ -1,0 +1,24 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "A Todo App built with vanilla javascscipt",
+  "main": "Todo.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BisiDavi/Todo-App.git"
+  },
+  "keywords": [
+    "Todo",
+    "App",
+    "JavaScript"
+  ],
+  "author": "Olubisi David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BisiDavi/Todo-App/issues"
+  },
+  "homepage": "https://github.com/BisiDavi/Todo-App#readme"
+}
